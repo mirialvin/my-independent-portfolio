@@ -75,8 +75,12 @@ div {
   }
   h1.solid {border-style: solid;}
   .center {
+      background-color: aliceblue;
     margin: auto;
     width: 60%;
     border: 3px solid #73AD21;
     padding: 10px;
+  }
+  body{
+      background-color: antiquewhite;
   }
