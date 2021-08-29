@@ -66,10 +66,8 @@ body {
 }
 div {
     width: 700px;
-    border: 15px solid black;
+    border: 15px solid greenyellow;
     padding: 50px;
     margin: 20px;
   }
-  p{
-      background-color:aqua;
-  }
+  h1.solid {border-style: solid;}
