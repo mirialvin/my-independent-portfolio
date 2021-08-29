@@ -66,10 +66,10 @@ body {
 }
 div {
     width: 700px;
-    border: 15px solid green;
+    border: 15px solid black;
     padding: 50px;
     margin: 20px;
   }
   p{
-      background-color: aquagit;
+      background-color:aqua;
   }
