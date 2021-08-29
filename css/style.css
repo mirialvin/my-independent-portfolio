@@ -89,7 +89,7 @@ div {
     margin: 0;
     padding: 0;
     width: 1000px;
-    background-color: #f1f1f1;
+    background-color: #e8ece8;
   }
   
   li a {
@@ -104,3 +104,7 @@ div {
     background-color: #555;
     color: white;
   }
+footer{
+    border: 3px solid #070707;
+    background-color: #c2c4c3;
+}
