@@ -15,6 +15,7 @@ body {
     padding: 6em 0;
    background-image: url(images/tea.jpeg);
     background-repeat: no-repeat;
+    opacity: 4.5;
     background-size: cover;
     border-top: solid 10px white;
     border-radius:50px 20px 5px;
@@ -65,9 +66,17 @@ body {
     font-weight: bold;
 }
 div {
-    width: 700px;
-    border: 15px solid greenyellow;
+
+    width: 700px;;
     padding: 50px;
     margin: 20px;
+    text-align: center;
+    box-sizing:unset;
   }
   h1.solid {border-style: solid;}
+  .center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
