@@ -3,6 +3,8 @@
 #### By **{Hiuhu Alvin Miri}**
 ## Description
 {This is a portfolio on my progress in Moringa School , more information about me and the projects I have made in my time here }
+## Git hub  link
+* https://github.com/mirialvin/my-independent-portfolio.git
 ## Setup/Installation Requirements
 * to see the website feel free to follow the link in the description
 
